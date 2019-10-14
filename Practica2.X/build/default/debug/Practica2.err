@@ -1,0 +1,4 @@
+Message[310] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V5.25\MPASMX\P16F887.INC 1522 : Superseding current maximum RAM and RAM map.
+Message[302] C:\USERS\LUIS\MPLABXPROJECTS\PRACTICA2.X\PRACTICA2.ASM 205 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LUIS\MPLABXPROJECTS\PRACTICA2.X\PRACTICA2.ASM 207 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[113]   C:\USERS\LUIS\MPLABXPROJECTS\PRACTICA2.X\PRACTICA2.ASM 212 : Symbol not previously defined (RAD0)
